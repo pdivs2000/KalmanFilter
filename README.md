@@ -24,7 +24,7 @@ This project demonstrates the application of Kalman filtering in communication s
 - **File:** `kalmanfilter_bfsk.m`
 - **Description:** Kalman filter applied to a BFSK (Binary Frequency Shift Keying) modulated communication system.
 
-- **Usage instructions:**
+## Usage instructions:
   
 * Step 1: Open MATLAB
 * Step 2: Load or copy the content of the script into the MATLAB editor.
