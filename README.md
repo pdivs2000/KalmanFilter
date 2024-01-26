@@ -26,10 +26,10 @@ This project demonstrates the application of Kalman filtering in communication s
 
 - **Usage instructions:**
   ```sh
-#Step 1: Open MATLAB
-#Step 2: Load or copy the content of the script into the MATLAB editor.
-#Step 3: Customize the simulation parameters and system settings as needed. Navigate to the section of the script where simulation parameters are defined. Modify parameters such as 'numSamples', 'processNoise', 'measurementNoise', etc.
-#Step 4: Run the script. Save the changes made in the editor and run the entire script by clicking the "Run" button.
+# Step 1: Open MATLAB
+# Step 2: Load or copy the content of the script into the MATLAB editor.
+# Step 3: Customize the simulation parameters and system settings as needed. Navigate to the section of the script where simulation parameters are defined. Modify parameters such as 'numSamples', 'processNoise', 'measurementNoise', etc.
+# Step 4: Run the script. Save the changes made in the editor and run the entire script by clicking the "Run" button.
  
 ## Output Figures
 
